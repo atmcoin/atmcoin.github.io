@@ -1,0 +1,59 @@
+/*
+ * @Author: Marissa Solomon@gBg!
+ * December, 2014
+ *
+ */
+
+/* gBgDrop Base Styles (always applied unless overridden in user stylesheet */
+body:not(.toplevel_page_gf_edit_forms) .ginput_container .gBgdrop-list-wrapper {
+		display: none;
+}
+
+.gBgdrop-selectBox, .gBgdrop-item {
+	cursor: pointer;
+	border: 3px solid #000;
+	height: 59px;
+	line-height: 59px;
+	padding-left: 25px;
+}
+.gBgdrop-item:not(:first-child) {
+	border-top: none;
+}
+
+
+/* gBgDrop Default Style (given if user asks for it) */
+
+.gBgStyle .gBgdrop-selectBox, .gBgStyle .gBgdrop-list-wrapper {
+	height: 50px;
+	line-height: 50px;
+	width: 200px;
+	font-size: 16px;
+	color: #333;
+	text-align: left;
+	cursor: pointer;
+}
+
+.gBgStyle .gBgdrop-selectBox {
+	background: #fff;
+	background-image: url('blue-down.png');
+	background-repeat: no-repeat;
+	background-position: 94% 53%;
+	border: 2px solid #101828;
+	padding-left: 1em;
+}
+.gBgStyle .gBgdrop-list-wrapper { width: 220px;}
+
+.gBgStyle .gBgdrop-list-wrapper div {
+	border: 2px solid #101828;
+	border-top: none;
+	background: #fff;
+	padding-left: 1em;
+	height: 50px;
+	width: 200px;
+	position: relative;
+	z-index:9;
+}
+
+.gBgStyle .gBgdrop-list-wrapper div:first-child {
+	border-top: 2px solid #101828;
+}

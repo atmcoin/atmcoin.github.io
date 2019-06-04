@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>API &#8211; Just Cash</title>
+	<atom:link href="https://just.cash/tag/api/feed/" rel="self" type="application/rss+xml" />
+	<link>https://just.cash</link>
+	<description>the next Mobile Cash technology</description>
+	<lastBuildDate>
+	Tue, 11 Sep 2018 15:22:20 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>With same-day ACH looming, Dwolla unveils a payout feature for its white-label API</title>
+		<link>https://just.cash/with-same-day-ach-looming-dwolla-unveils-a-payout-feature-for-its-white-label-api/</link>
+				<pubDate>Thu, 08 Sep 2016 20:07:27 +0000</pubDate>
+		<dc:creator><![CDATA[Just Cash]]></dc:creator>
+				<category><![CDATA[Industry News]]></category>
+		<category><![CDATA[Mobile Banking]]></category>
+		<category><![CDATA[Trends]]></category>
+		<category><![CDATA[App Integration]]></category>
+		<category><![CDATA[API]]></category>
+
+		<guid isPermaLink="false">http://just.cash/?p=190</guid>
+				<description><![CDATA[<p>&#8220;Companies that have been planning for months for the arrival Friday of same-day automated clearing house payments are getting ready to pounce, and one of the first opportunities lies in platform payouts. Des Moines, Iowa-based Dwolla Inc., for example, on Wednesday is announcing a new feature that marketplaces, gig economies, and payroll services can integrate<a class="moretag" href="https://just.cash/with-same-day-ach-looming-dwolla-unveils-a-payout-feature-for-its-white-label-api/"> Read More...</a></p>
+<p>The post <a rel="nofollow" href="https://just.cash/with-same-day-ach-looming-dwolla-unveils-a-payout-feature-for-its-white-label-api/">With same-day ACH looming, Dwolla unveils a payout feature for its white-label API</a> appeared first on <a rel="nofollow" href="https://just.cash">Just Cash</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>&#8220;Companies that have been planning for months for the arrival Friday of same-day automated clearing house payments are getting ready to pounce, and one of the first opportunities lies in platform payouts. Des Moines, Iowa-based Dwolla Inc., for example, on Wednesday is announcing a new feature that marketplaces, gig economies, and payroll services can integrate to make same-day payouts <em>en masse</em> to service providers like drivers and care-givers.&#8221;</p>
+<p><a href="http://www.digitaltransactions.net/news/story/With-Same-Day-ACH-Looming_-Dwolla-Unveils-a-Payout-Feature-for-its-White-Label-API" target="_blank">Click here to continue to the full article.</a></p>
+<p>The post <a rel="nofollow" href="https://just.cash/with-same-day-ach-looming-dwolla-unveils-a-payout-feature-for-its-white-label-api/">With same-day ACH looming, Dwolla unveils a payout feature for its white-label API</a> appeared first on <a rel="nofollow" href="https://just.cash">Just Cash</a>.</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
