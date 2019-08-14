@@ -117,6 +117,7 @@
 }
 
 .map-section .atm-popup-content > .markup .label {
+	color: #ddd;
 	font-size: 14px;
 	font-weight: bold;
 }
