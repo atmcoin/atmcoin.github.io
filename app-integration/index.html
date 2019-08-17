@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+
+---
+
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head>
@@ -162,11 +169,7 @@ var vlpp_vars = {"prettyPhoto_rel":"wp-video-lightbox","animation_speed":"fast",
 <body class="page-template page-template-template-target-market page-template-template-target-market-php page page-id-10" data-spy="scroll" data-target="#anchors-wrapper">
 	<div id="page" class="hfeed site">
 				<header id="masthead" class="site-header" role="banner">
-<script>
-$(function(){
-$('#masthead').load('/_includes/header.html');
-});
-</script>
+{% include header.html %}
 </header><!-- #masthead -->
 		<div id="content" class="site-content">
 
@@ -477,11 +480,7 @@ $('#masthead').load('/_includes/header.html');
 	</div><!-- #content -->
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
-<script>
- $(function(){
- $('#colophon').load('/_includes/footer.html');
- });
-</script>
+{% include footer.html %}
 </footer><!-- #colophon -->
 
 </div><!-- #page -->
